@@ -8,8 +8,8 @@ react-hot-toast を React プロジェクトにダウンロードし、toastポ�
 
 ```
 
-git clone https://github.com/aya030/react-toast.git
-cd react-toast
+git clone https://github.com/aya030/react-toastApp.git
+cd react-toastApp
 npm install
 
 ```
